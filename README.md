@@ -1,2 +1,22 @@
-# PrototypeOS
-Prototype OS is an experimental operating system created by Samyar Jahani using Python. This project is designed to explore operating system ideas and learn programming and system management concepts.
+# Prototype OS
+
+Prototype OS is a simple operating system project created by **Samyar Jahani** using Python.
+
+## Features
+- Account system
+- Terminal
+- File manager
+- Calculator
+- Notepad
+- Music player
+- Update system
+- Settings
+
+## Version
+Prototype OS 0.1
+
+## Creator
+Samyar Jahani
+
+## Language
+Python
